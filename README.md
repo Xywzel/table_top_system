@@ -30,6 +30,12 @@ there are clearly enough settings available already. Instead of making generic
 fantasy setting X, files here provide examples and instructions on how to create
 ones own world or adapt things from one world to another.
 
+### Creatures
+
+Heroes and adventures need foes to fight and interesting beings to interact
+with. This module provides descriptions and stat blocks as well as instructions
+on how to read and create them and how to use them in game.
+
 ### Maps
 
 Battle maps, dungeon maps, town maps, wilderness maps. They all need
