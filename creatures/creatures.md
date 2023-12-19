@@ -9,6 +9,11 @@ fantasy, horror and sci-fi tale needs its weird creatures.
 
 ### Description
 
+Description 
+
+Good description includes both a vague description that can be read out when the
+creature is first sighted.
+
 ### Statblock
 
 Statblock describes the gameplay statistics and features of creature. These are
@@ -25,3 +30,16 @@ phases might have reference card for each of its phases, while some times
 multiple variants of creature commonly appearing together might be described
 in same card. Good reference card fits on a playing card sized paper with a
 readable font size.
+
+### Combat role and tactics
+
+
+### Loot
+
+### Variants
+
+Variants are a way to give more variety to a group of similar creatures, scale
+them for fights on different tiers of play or make them fit into different
+settings.
+
+
