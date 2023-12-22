@@ -9,16 +9,20 @@ fantasy, horror and sci-fi tale needs its weird creatures.
 
 ### Description
 
-Description 
+Description tells what the creature looks like and how it usually behaves.
 
 Good description includes both a vague description that can be read out when the
-creature is first sighted.
+creature is first sighted as well as clearer and fuller description that can be
+used to answer players' questions and guide rulings where statblock fails short
+of providing exact answer.
 
 ### Statblock
 
 Statblock describes the gameplay statistics and features of creature. These are
 full descriptions meant to be used while preparing sessions or needing to
 resolve things that don't appear in every combat.
+
+Statblock should be consistent internally and with the rest of the rules.
 
 ### Reference Card
 
@@ -33,8 +37,23 @@ readable font size.
 
 ### Combat role and tactics
 
+Combat role and tactics part explains how to use the creature in efficient and
+interesting way.
+
+Sometimes creature is meant to use tactic that is not necessarily self evident
+from its statblock, and these instructions help running it to its full
+potential.
+
+Sometimes creature is modelled to use real world tactic, that due to simulation
+accuracy is not as efficient than some other tactic allowed by its statblock,
+and the tactics part allows instructing game masters to run creature without
+too much meta-gaming and its intended power level.
 
 ### Loot
+
+No fight against monster is complete without something to bring home as a price.
+Loot part of creature page tells what kinds items creature might carry with it,
+if it has valuable or useful gear or body parts
 
 ### Variants
 
