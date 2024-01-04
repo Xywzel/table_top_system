@@ -18,6 +18,10 @@ game in turn based format.
 Rules for exploring both dungeons, towns and wilderness. For when you don't
 know where you need to go.
 
+## Traps
+
+Threads are not always hostile creature, traps tell how to handle these.
+
 ## Travel
 
 For when you know where you need to get, and would rather get there quickly.
@@ -34,9 +38,14 @@ their pockets, without requiring everyone to have a open excel sheet.
 
 ## Piety
 
-Track divine favour for player characters and 
+Track divine favour for player characters and granting boons or woes based on
+this.
 
 ## Factions
+
+Running and tracking nations, organisations and other large groups, and their
+relations with each other and the players. Have players gain their favour or
+ire, rise in their ranks or try dismantle them from within.
 
 ## Leadership
 
